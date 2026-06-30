@@ -80,8 +80,6 @@ echo  Construction Suite is starting up!
 echo  - Backend API:  http://127.0.0.1:8000
 echo  - API Docs:     http://127.0.0.1:8000/docs
 echo  - Frontend:     http://localhost:5173
-echo.
-echo  Demo login: admin@construction.bw / Admin@1234
 echo ========================================================================
 echo.
 echo Close this window to stop the servers (or close the individual windows).

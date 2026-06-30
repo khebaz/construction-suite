@@ -48,19 +48,6 @@ npm run dev
 
 Open **http://localhost:5173** in your browser.
 
-## Demo Credentials
-
-| Role | Email | Password |
-|------|-------|----------|
-| Administrator | admin@construction.bw | Admin@1234 |
-| Project Manager | pm@construction.bw | Admin@1234 |
-| Site Engineer | site.engineer@construction.bw | Engineer@1234 |
-| Foreman | foreman@construction.bw | Foreman@1234 |
-| Storekeeper | storekeeper@construction.bw | Store@1234 |
-| Equipment Manager | equip.manager@construction.bw | Equip@1234 |
-| Accountant | accountant@construction.bw | Acc@1234 |
-| Client | client@construction.bw | Client@1234 |
-
 ## Project Structure
 
 ```
