@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+venv/
+.venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Database
+backend/construction_suite.db
+backend/instance/
+
+# Uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/app/uploads/*
+
+# Dev artifacts
+check_uuids.py
+construction-dashboard.jsx
+*.log
+start-backend.bat
+start-frontend.bat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
